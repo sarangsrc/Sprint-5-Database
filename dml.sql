@@ -283,3 +283,6 @@ UPDATE employees SET last_name = 'AUSTIN' WHERE first_name = 'JANE';
 
 DELETE FROM employees WHERE first_name = 'LEO' AND last_name = 'DAS';
 
+
+
+cr
